@@ -1,40 +1,39 @@
 # Logistics Delivery Drone Prototype
 
-A multirotor drone prototype intended for logistics applications. Two supplied photographs document the physical assembly, enclosed central body and landing structure.
+A team-built multirotor prototype developed to explore carrying small payloads for logistics applications. The drone used a **Pixhawk 6C Mini** flight controller and achieved a **300 g payload** during testing.
 
-**Portfolio:** Thiruppathi P · [Thirusprojects](https://github.com/Thirusprojects)
+![Logistics delivery drone prototype](media/images/img-4626.jpg)
 
-![Logistics Delivery Drone Prototype — supplied project image](media/images/img-4626.jpg)
+## My contribution
 
-## Project status
+I worked on **building the drone** and **helped design the payload mechanism** as part of the team.
 
-Physical prototype photographs available. This upload contains no flight demonstration or measured payload test.
+- **Drone building:** Contributed to the physical construction of the drone prototype.
+- **Payload mechanism design:** Assisted with designing the mechanism for carrying the payload.
 
-## Contribution
+My contribution combined hands-on drone construction with mechanical design support for the payload system.
 
-Personal responsibilities and team contribution are awaiting confirmation.
+## Design overview
 
-## Design and documented features
+The prototype brings together a multirotor airframe, a flight-control system and a payload mechanism. Its enclosed central body and landing supports form the physical platform for the assembly.
 
-- Multirotor assembly with an enclosed central body.
-- Landing supports and exposed propulsion assemblies visible in photographs.
-- Photographic record of the prototype from two viewpoints.
+The payload mechanism is an important part of this integration: carrying an additional load requires attention to its position, support and effect on the drone’s balance. The project provided practical experience in combining these mechanical requirements with a drone build.
 
-## Image gallery
+## Hardware and result
 
-- [Project image 1](media/images/img-4626.jpg)
-- [Project image 2](media/images/img-4627.jpg)
+| Item | Details |
+| --- | --- |
+| Flight controller | Pixhawk 6C Mini |
+| Achieved payload | 300 g |
+| Project | Team-built logistics drone prototype |
+| My work | Drone building and assistance with payload mechanism design |
 
-## Evidence and limitations
+The team achieved a 300 g payload with the prototype. This result describes the demonstrated load; it does not establish a maximum rated payload or delivery range.
 
-The photographs do not establish payload capacity, flight time, delivery accuracy or autonomous capability. Flight-controller, propulsion and battery specifications are not yet confirmed.
+## Prototype photographs
 
-## Details to complete
+![Additional view of the logistics drone assembly](media/images/img-4627.jpg)
 
-Confirm your role, controller and firmware, actual payload carried, flight duration and demonstrated flight results.
+## Practical experience
 
-## File provenance
-
-See [asset inventory](docs/ASSETS.md) for the mapping to supplied filenames. JPEG and MP4 exports are provided for browser access. Original presentation, PDF and CAD contents are retained where supplied.
-
-This repository documents project materials supplied by the portfolio owner. Team work and third-party design contributions should be credited as their roles are confirmed.
+Through this project, I gained experience in drone construction and contributing to the design of a payload mechanism as part of a shared engineering build.
